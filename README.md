@@ -23,7 +23,7 @@ Log scaling is applied to streaming counts to handle the highly skewed distribut
 The visualization highlights that platform-level metrics alone are not sufficient to fully account for streaming mega-hits. Extreme success likely depends on additional factors beyond Spotify’s internal scoring signals, such as external exposure or long-term listener behavior.
 
 ## Contents
-- `visualization.ipynb`: Final analysis and visualization notebook
+- `Vizspotify.ipynb`: Final analysis and visualization notebook
 
 ## Dataset
 Dataset source: Kaggle – *Most Streamed Spotify Songs 2024*
